@@ -1,0 +1,6 @@
+.card-footer,.card-header{background-color:#fff;border:none}
+.card-header{overflow:hidden;position:relative}
+.floating-title{background-color:rgba(0,0,0,.5);position:absolute;color:#fff;top:0;left:0;right:0;bottom:0;text-align:center;opacity:0}
+.card:hover .floating-title{opacity:1}
+.card:hover .card-img-top{ transform:scale(1.2); filter:blur(2px); -webkit-transform:scale(1.2); -moz-transform:scale(1.2); -ms-transform:scale(1.2); -o-transform:scale(1.2); }
+.card-img-top,.floating-title{transition:all .5s ease-in-out}
