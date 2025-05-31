@@ -1,4 +1,4 @@
-<h1>Card hover</h2>
+<h1>Card-hover</h2>
 
 <p>Screenshot</p>
 
