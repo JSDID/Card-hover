@@ -2,4 +2,5 @@
 
 <p>Screenshot</p>
 
-![Screenshot_2025_05_31-1](https://github.com/user-attachments/assets/d0c0ad29-f4a7-4528-894b-f60fbe313a32)
+
+![Screenshot_2025_05_31-2](https://github.com/user-attachments/assets/c7136250-059c-4f98-a6b2-922dbc4dcaa9)
